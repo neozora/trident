@@ -1,0 +1,7 @@
+#Main Social Media Accounts Credential
+FacebookCred = FBCred
+InstagramCred = IGCred
+TwitterCred = TwtCred
+
+#Other Accounts Credential
+WordPressCred = WPCred
